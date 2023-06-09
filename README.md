@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🔭 I’m currently working on DevOps & Software Engineer
+
+⚡ Over 15 years of extensive experience working with more than 8 software MNCs for software development/maintenance and production environments involved in continuous improvement and automating entire life cycle using latest devops tools and techniques from design and architecture, through implementation, deployment, and successful operations. Also, helping more than 70 software organizations globally, providing coaching, mentoring and consulting in devops, CICD, cloud, containers, sre, devSecops, microservices and operations.
+
 <!--
 **E-Emad/E-Emad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
